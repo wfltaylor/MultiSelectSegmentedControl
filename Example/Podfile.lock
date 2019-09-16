@@ -1,7 +1,7 @@
 PODS:
-  - MultiSelectSegmentedControl (2.0.2):
+  - MultiSelectSegmentedControl (2.1.0):
     - SweeterSwift
-  - SweeterSwift (1.0.1)
+  - SweeterSwift (1.0.4)
   - SwiftFormat/CLI (0.40.10)
   - SwiftLint (0.34.0)
   - SwiftQuality (1.0.4):
@@ -30,8 +30,8 @@ CHECKOUT OPTIONS:
     :git: https://github.com/yonat/SwiftQuality
 
 SPEC CHECKSUMS:
-  MultiSelectSegmentedControl: 3d220bd8e10414568396abf49fc4c46613e8a350
-  SweeterSwift: d12d3cc90e52a81e0975e69fb05dce46429be647
+  MultiSelectSegmentedControl: a0619d634b0b1ecafe80a200438b888b8772e2ed
+  SweeterSwift: fe0daffbcf89c9f6e4db1e9159b9c74696b26a13
   SwiftFormat: d0e2118da5bfccc0158f0b8eff80c476c5acd984
   SwiftLint: 79d48a17c6565dc286c37efb8322c7b450f95c67
   SwiftQuality: b82257ee3bf1193fd2c01681438d71a5e5ae2f9a
